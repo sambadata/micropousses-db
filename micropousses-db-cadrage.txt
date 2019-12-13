@@ -1,0 +1,40 @@
+NOTE DE CADRAGE
+
+Nom du projet : « Projet gestion production Micropousse »
+
+Nature du projet : Conception création d’une base de données de gestion, de production agricole de micropousses sous serre. 
+
+
+Les objectifs peuvent être ainsi résumés, par priorités décroissantes :  
+
+-  Gestion des micropousses cultivées sous serre
+-  Gestion des serres
+-  Commades clients
+-  Gestion fournisseurs (équipements des serres et intrants pour la culture micropousses)
+-  Gestion des stocks produits (micropousses)
+
+
+Contraintes principales : 
+
+- Avoir accès aux données
+
+Objectifs de l'équipe projet
+
+L'équipe doit travailler suivant des principes généraux visant à améliorer le côté informatique de l’association qui utilise seulement un logiciel open source pour réaliser ses bons de commande et un tableur pour noter et classer les températures et le taux d'humidité relevés grâce à des capteurs.
+
+L'objet principal de ce projet est de fournir une proposition de base de donnée qui permettra la gestion de production agricole de l'entreprise "Paysan Urbain" qui se spécialise dans la production et la vente des micropousses.
+
+Ses enjeux pour l'organisme sont les suivants :
+- Améliorer le rendement de l'entreprise
+- Meilleur gestion du travail
+- Optimization du temps
+- Vision d'ensemble du fonctionnement de l'association
+- Eviter les pertes
+- Suivi de la vie d'une pousse
+- Gestion de commandes client
+- Gestion de commandes auprès des fournisseurs
+- Gestion des serres
+
+Les enjeux pour le paysan urbain serait d’avoir plus de financement d’entreprise, et avoir plus de partenariats, pour éventuellement avoir une opportunité de basculer dans la grande distribution 
+
+Les contraintes relèverai d’un problème au niveau du transports des micro pousse, cependant plusieurs points de livraisons ont était installé en région 
